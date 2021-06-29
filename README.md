@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gelo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gelo_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/angelo_soliven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/angelo-soliven-117055205/" height="30" width="40" /></a>
-<a href="https://instagram.com/gelo01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gelo.ge1o" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/angelo-soliven-117055205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/angelo-soliven-117055205/" height="30" width="40" /></a>
+<a href="https://instagram.com/gelo.ge1o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gelo.ge1o" height="30" width="40" /></a>
 <a href="https://discord.gg/clever-guy#2392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="clever-guy#2392" height="30" width="40" /></a>
 </p>
 
